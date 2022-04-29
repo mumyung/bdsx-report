@@ -11,3 +11,8 @@ As more people are reported, the capacity of the plugin increases little by litt
 ## language: English (영어)
 
 - /report <player to report>
+
+## LICENSE
+`MIT License
+
+Copyright (c) 2022 mumyung`
