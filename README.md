@@ -13,6 +13,5 @@ As more people are reported, the capacity of the plugin increases little by litt
 - /report <player to report>
 
 ## LICENSE
-`MIT License
-
-Copyright (c) 2022 mumyung`
+  
+`Copyright (c) 2022 mumyung`
